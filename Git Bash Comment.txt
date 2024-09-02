@@ -1,0 +1,24 @@
+// Git bash comment
+// enter username
+$ git config --global user.name ""
+
+// enter user email
+$ git config --global user.email ""
+
+// intialization
+$ git init
+
+// select file
+$git add . or -A
+
+// commit 
+$ git commit -m "any message"
+
+// url comment
+$ git remote add origin (paste url)
+
+// push repository
+$ git push -u origin (branch name:main or origin)
+
+Result:
+       push your project on Github Repository. 
